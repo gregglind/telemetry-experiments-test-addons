@@ -1,0 +1,9 @@
+{
+  "name": "donothing",
+  "title": "donothing",
+  "id": "donothing@telementry-experiments",
+  "description": "Does Nothing.",
+  "author": "Gregg Lind <glind@mozilla.com>",
+  "license": "MPL 2.0",
+  "version": "1.0.0"
+}
